@@ -1,0 +1,104 @@
+body {
+  background-color: #222;
+  color: #ddd;
+}
+
+body center table td {
+  font-size: 15px;
+}
+
+body center table a,
+body center table a:link,
+body center table a:hover,
+body center table a:visited,
+body center table a:active {
+  color: #ddd;
+}
+
+body center table .pagetop a,
+body center table .pagetop a:link,
+body center table .pagetop a:hover,
+body center table .pagetop a:visited,
+body center table .yclinks a,
+body center table .yclinks a:link,
+body center table .yclinks a:hover,
+body center table .yclinks a:visited {
+  color: #ddd;
+}
+
+body center table .pagetop {
+  color: #ddd;
+}
+
+body center table {
+  width: 100%;
+  background-color: #222;
+  color: #ddd;
+}
+
+body center table td center {
+  padding-top: 15px;
+}
+
+body center table .title {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #ddd;
+  padding-top: 15px;
+}
+
+body center table .title a,
+body center table .title a:link,
+body center table .title a:hover {
+  color: #ddd;
+}
+
+body center table .title a:visited {
+  color: #666;
+}
+
+body center table .subtext {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #bbb;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #333;
+}
+
+body center table .subtext a,
+body center table .subtext a:link,
+body center table .subtext a:hover,
+body center table .subtext a:visited {
+  font-size: 15px;
+  color: #bbb;
+  text-decoration: underline;
+}
+
+/* Forms */
+
+textarea,
+input[type=text] {
+  background-color: #eee;
+  border: 2px solid #555;
+  padding: 4px;
+}
+
+input[type=text] {
+}
+
+/* Comments */
+body center table .default {
+  border-bottom: 1px solid #333;
+  padding-bottom: 10px;
+}
+
+body center table .default,
+body center table .default font {
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #ddd;
+  font-size: 15px;
+}
+
+body center table .default i {
+  color: #777;
+}

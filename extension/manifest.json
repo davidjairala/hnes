@@ -1,0 +1,14 @@
+{
+  "name": "Hacker News Enhancenment Suite",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "HN improvements galore!",
+  "content_scripts" : [
+    {
+      "matches" : ["*://news.ycombinator.com/*"],
+      "css"     : ["css/hnes.css"],
+      "js"      : ["js/jquery.min.js", "js/hnes.js"],
+      "run_at"  : "document_end"
+    }
+  ]
+}
