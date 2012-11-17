@@ -30,8 +30,11 @@ body center table .pagetop {
   color: #ddd;
 }
 
-body center table {
+body > center > table {
   width: 100%;
+}
+
+body center table {
   background-color: #222;
   color: #ddd;
 }
@@ -76,14 +79,17 @@ body center table .subtext a:visited {
 
 /* Forms */
 
-textarea,
-input[type=text] {
+body center table textarea,
+body center table input {
   background-color: #eee;
   border: 2px solid #555;
-  padding: 4px;
+  padding: 5px;
+  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 14px;
 }
 
-input[type=text] {
+body center table textarea {
+  width: 800px;
 }
 
 /* Comments */
