@@ -4,7 +4,7 @@ body {
 }
 
 body center table td {
-  font-size: 15px;
+  font-size: 17px;
 }
 
 body center table a,
@@ -45,7 +45,7 @@ body center table td center {
 
 body center table .title {
   font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   color: #ddd;
   padding-top: 15px;
 }
@@ -62,7 +62,7 @@ body center table .title a:visited {
 
 body center table .subtext {
   font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   color: #bbb;
   padding-bottom: 15px;
   border-bottom: 1px solid #333;
@@ -72,7 +72,7 @@ body center table .subtext a,
 body center table .subtext a:link,
 body center table .subtext a:hover,
 body center table .subtext a:visited {
-  font-size: 15px;
+  font-size: 17px;
   color: #bbb;
   text-decoration: underline;
 }
@@ -85,7 +85,7 @@ body center table input {
   border: 2px solid #555;
   padding: 5px;
   font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 body center table textarea {
@@ -102,7 +102,7 @@ body center table .default,
 body center table .default font {
   font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
   color: #ddd;
-  font-size: 15px;
+  font-size: 17px;
 }
 
 body center table .default i {
