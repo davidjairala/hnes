@@ -44,7 +44,7 @@ body center table td center {
 }
 
 body center table .title {
-  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 20px;
   color: #ddd;
   padding-top: 15px;
@@ -61,7 +61,7 @@ body center table .title a:visited {
 }
 
 body center table .subtext {
-  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 17px;
   color: #bbb;
   padding-bottom: 15px;
@@ -84,7 +84,7 @@ body center table input {
   background-color: #eee;
   border: 2px solid #555;
   padding: 5px;
-  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
 }
 
@@ -100,7 +100,7 @@ body center table .default {
 
 body center table .default,
 body center table .default font {
-  font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   color: #ddd;
   font-size: 17px;
 }
