@@ -106,7 +106,7 @@ body center table .default font {
 }
 
 body center table .default pre {
-  max-width: 100%;
+  white-space: pre-line;
 }
 
 body center table .default i {
