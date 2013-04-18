@@ -105,6 +105,10 @@ body center table .default font {
   font-size: 19px;
 }
 
+body center table .default pre {
+  max-width: 100%;
+}
+
 body center table .default i {
   color: #777;
 }
