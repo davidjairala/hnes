@@ -112,3 +112,8 @@ body center table .default pre {
 body center table .default i {
   color: #777;
 }
+
+/* Polls */
+body center table .comment font {
+  color: #ddd;
+}
